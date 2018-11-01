@@ -1,0 +1,534 @@
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1540983958;s:6:"expire";i:1541070358;s:4:"tags";s:160:"365_CAT_P,365_BLOCK_HTML,365_CAT_P_4,365_CAT_P_6,365_CAT_P_9,365_CAT_P_10,365_CAT_P_17,365_CAT_P_18,365_CAT_P_20,365_CAT_P_22,365_CAT_P_24,365_CAT_P_23,365_MAGE";}
+    <div class="block widget block-products-list grid">
+                <div class="block-content">
+            <!-- new_products_content_widget_grid-->            <div class="products-grid grid">
+                <ol class="product-items widget-product-grid">
+                                                                <li class="product-item">                        <div class="product-item-info">
+                            <a href="http://magento2aleks.loc/mars.html" class="product-item-photo">
+                                
+<span class="product-image-container"
+      style="width:240px;">
+    <span class="product-image-wrapper"
+          style="padding-bottom: 125%;">
+        <img class="product-image-photo"
+                        src="http://magento2aleks.loc/media/catalog/product/cache/ff99324992233a173c1ea41954bdff54/9/4/9406685085726.jpg"
+            width="240"
+            height="300"
+            alt="марс"/></span>
+</span>
+                            </a>
+                            <div class="product-item-details">
+                                <strong class="product-item-name">
+                                    <a title="марс"
+                                       href="http://magento2aleks.loc/mars.html"
+                                       class="product-item-link">
+                                        марс                                    </a>
+                                </strong>
+                                <div class="price-box price-final_price" data-role="priceBox" data-product-id="4" data-price-box="product-id-4">
+    
+
+<span class="price-container price-final_price tax weee"
+        >
+        <span  id="old-price-4-widget-product-grid"                data-price-amount="4"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">4,00 руб.</span></span>
+        </span>
+
+</div>
+                                                                                                    
+                                                                    <div class="product-item-actions">
+                                                                                    <div class="actions-primary">
+                                                                                                                                                                                                                    <button class="action tocart primary" data-post='{"action":"http:\/\/magento2aleks.loc\/checkout\/cart\/add\/uenc\/aHR0cDovL21hZ2VudG8yYWxla3MubG9jLw%2C%2C\/product\/4\/","data":{"product":"4","uenc":"aHR0cDovL21hZ2VudG8yYWxla3MubG9jLw,,"}}' type="button" title="Add&#x20;to&#x20;Cart">
+                                                            <span>Add to Cart</span>
+                                                        </button>
+                                                                                                                                                </div>
+                                                                                                                            <div class="actions-secondary" data-role="add-to-links">
+                                                                                                    <a href="#"
+                                                       data-post='{"action":"http:\/\/magento2aleks.loc\/wishlist\/index\/add\/","data":{"product":"4","uenc":"aHR0cDovL21hZ2VudG8yYWxla3MubG9jLw,,"}}' class="action towishlist" data-action="add-to-wishlist" title="Add&#x20;to&#x20;Wish&#x20;List">
+                                                        <span>Add to Wish List</span>
+                                                    </a>
+                                                                                                                                                                                                        <a href="#" class="action tocompare" data-post='{"action":"http:\/\/magento2aleks.loc\/catalog\/product_compare\/add\/","data":{"product":"4","uenc":"aHR0cDovL21hZ2VudG8yYWxla3MubG9jLw,,"}}' title="Add&#x20;to&#x20;Compare">
+                                                        <span>Add to Compare</span>
+                                                    </a>
+                                                                                            </div>
+                                                                            </div>
+                                                            </div>
+                        </div>
+                                                                    </li><li class="product-item">                        <div class="product-item-info">
+                            <a href="http://magento2aleks.loc/jakobs.html" class="product-item-photo">
+                                
+<span class="product-image-container"
+      style="width:240px;">
+    <span class="product-image-wrapper"
+          style="padding-bottom: 125%;">
+        <img class="product-image-photo"
+                        src="http://magento2aleks.loc/static/version1540796953/frontend/Magento/luma/ru_RU/Magento_Catalog/images/product/placeholder/small_image.jpg"
+            width="135"
+            height="135"
+            alt="якобс"/></span>
+</span>
+                            </a>
+                            <div class="product-item-details">
+                                <strong class="product-item-name">
+                                    <a title="якобс"
+                                       href="http://magento2aleks.loc/jakobs.html"
+                                       class="product-item-link">
+                                        якобс                                    </a>
+                                </strong>
+                                <div class="price-box price-final_price" data-role="priceBox" data-product-id="6" data-price-box="product-id-6">
+    
+
+<span class="price-container price-final_price tax weee"
+        >
+        <span  id="old-price-6-widget-product-grid"                data-price-amount="3.75"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">3,75 руб.</span></span>
+        </span>
+
+</div>
+                                                                                                    
+                                                                    <div class="product-item-actions">
+                                                                                    <div class="actions-primary">
+                                                                                                                                                                                                                    <button class="action tocart primary" data-post='{"action":"http:\/\/magento2aleks.loc\/checkout\/cart\/add\/uenc\/aHR0cDovL21hZ2VudG8yYWxla3MubG9jLw%2C%2C\/product\/6\/","data":{"product":"6","uenc":"aHR0cDovL21hZ2VudG8yYWxla3MubG9jLw,,"}}' type="button" title="Add&#x20;to&#x20;Cart">
+                                                            <span>Add to Cart</span>
+                                                        </button>
+                                                                                                                                                </div>
+                                                                                                                            <div class="actions-secondary" data-role="add-to-links">
+                                                                                                    <a href="#"
+                                                       data-post='{"action":"http:\/\/magento2aleks.loc\/wishlist\/index\/add\/","data":{"product":"6","uenc":"aHR0cDovL21hZ2VudG8yYWxla3MubG9jLw,,"}}' class="action towishlist" data-action="add-to-wishlist" title="Add&#x20;to&#x20;Wish&#x20;List">
+                                                        <span>Add to Wish List</span>
+                                                    </a>
+                                                                                                                                                                                                        <a href="#" class="action tocompare" data-post='{"action":"http:\/\/magento2aleks.loc\/catalog\/product_compare\/add\/","data":{"product":"6","uenc":"aHR0cDovL21hZ2VudG8yYWxla3MubG9jLw,,"}}' title="Add&#x20;to&#x20;Compare">
+                                                        <span>Add to Compare</span>
+                                                    </a>
+                                                                                            </div>
+                                                                            </div>
+                                                            </div>
+                        </div>
+                                                                    </li><li class="product-item">                        <div class="product-item-info">
+                            <a href="http://magento2aleks.loc/muzykal-nyj-trek2.html" class="product-item-photo">
+                                
+<span class="product-image-container"
+      style="width:240px;">
+    <span class="product-image-wrapper"
+          style="padding-bottom: 125%;">
+        <img class="product-image-photo"
+                        src="http://magento2aleks.loc/static/version1540796953/frontend/Magento/luma/ru_RU/Magento_Catalog/images/product/placeholder/small_image.jpg"
+            width="135"
+            height="135"
+            alt="музыкальный трек2"/></span>
+</span>
+                            </a>
+                            <div class="product-item-details">
+                                <strong class="product-item-name">
+                                    <a title="музыкальный трек2"
+                                       href="http://magento2aleks.loc/muzykal-nyj-trek2.html"
+                                       class="product-item-link">
+                                        музыкальный трек2                                    </a>
+                                </strong>
+                                <div class="price-box price-final_price" data-role="priceBox" data-product-id="9" data-price-box="product-id-9">
+    
+
+<span class="price-container price-final_price tax weee"
+        >
+        <span  id="old-price-9-widget-product-grid"                data-price-amount="1"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">1,00 руб.</span></span>
+        </span>
+
+</div>
+                                                                                                    
+                                                                    <div class="product-item-actions">
+                                                                                    <div class="actions-primary">
+                                                                                                                                                                                                                    <button class="action tocart primary" data-post='{"action":"http:\/\/magento2aleks.loc\/checkout\/cart\/add\/uenc\/aHR0cDovL21hZ2VudG8yYWxla3MubG9jLw%2C%2C\/product\/9\/","data":{"product":"9","uenc":"aHR0cDovL21hZ2VudG8yYWxla3MubG9jLw,,"}}' type="button" title="Add&#x20;to&#x20;Cart">
+                                                            <span>Add to Cart</span>
+                                                        </button>
+                                                                                                                                                </div>
+                                                                                                                            <div class="actions-secondary" data-role="add-to-links">
+                                                                                                    <a href="#"
+                                                       data-post='{"action":"http:\/\/magento2aleks.loc\/wishlist\/index\/add\/","data":{"product":"9","uenc":"aHR0cDovL21hZ2VudG8yYWxla3MubG9jLw,,"}}' class="action towishlist" data-action="add-to-wishlist" title="Add&#x20;to&#x20;Wish&#x20;List">
+                                                        <span>Add to Wish List</span>
+                                                    </a>
+                                                                                                                                                                                                        <a href="#" class="action tocompare" data-post='{"action":"http:\/\/magento2aleks.loc\/catalog\/product_compare\/add\/","data":{"product":"9","uenc":"aHR0cDovL21hZ2VudG8yYWxla3MubG9jLw,,"}}' title="Add&#x20;to&#x20;Compare">
+                                                        <span>Add to Compare</span>
+                                                    </a>
+                                                                                            </div>
+                                                                            </div>
+                                                            </div>
+                        </div>
+                                                                    </li><li class="product-item">                        <div class="product-item-info">
+                            <a href="http://magento2aleks.loc/kartofel.html" class="product-item-photo">
+                                
+<span class="product-image-container"
+      style="width:240px;">
+    <span class="product-image-wrapper"
+          style="padding-bottom: 125%;">
+        <img class="product-image-photo"
+                        src="http://magento2aleks.loc/media/catalog/product/cache/ff99324992233a173c1ea41954bdff54/k/a/kartofel-2.jpg"
+            width="240"
+            height="300"
+            alt="картофель"/></span>
+</span>
+                            </a>
+                            <div class="product-item-details">
+                                <strong class="product-item-name">
+                                    <a title="картофель"
+                                       href="http://magento2aleks.loc/kartofel.html"
+                                       class="product-item-link">
+                                        картофель                                    </a>
+                                </strong>
+                                <div class="price-box price-final_price" data-role="priceBox" data-product-id="10" data-price-box="product-id-10">
+    
+
+<span class="price-container price-final_price tax weee"
+        >
+        <span  id="old-price-10-widget-product-grid"                data-price-amount="1"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">1,00 руб.</span></span>
+        </span>
+
+</div>
+                                                                                                    
+                                                                    <div class="product-item-actions">
+                                                                                    <div class="actions-primary">
+                                                                                                                                                                                                                    <button class="action tocart primary" data-post='{"action":"http:\/\/magento2aleks.loc\/checkout\/cart\/add\/uenc\/aHR0cDovL21hZ2VudG8yYWxla3MubG9jLw%2C%2C\/product\/10\/","data":{"product":"10","uenc":"aHR0cDovL21hZ2VudG8yYWxla3MubG9jLw,,"}}' type="button" title="Add&#x20;to&#x20;Cart">
+                                                            <span>Add to Cart</span>
+                                                        </button>
+                                                                                                                                                </div>
+                                                                                                                            <div class="actions-secondary" data-role="add-to-links">
+                                                                                                    <a href="#"
+                                                       data-post='{"action":"http:\/\/magento2aleks.loc\/wishlist\/index\/add\/","data":{"product":"10","uenc":"aHR0cDovL21hZ2VudG8yYWxla3MubG9jLw,,"}}' class="action towishlist" data-action="add-to-wishlist" title="Add&#x20;to&#x20;Wish&#x20;List">
+                                                        <span>Add to Wish List</span>
+                                                    </a>
+                                                                                                                                                                                                        <a href="#" class="action tocompare" data-post='{"action":"http:\/\/magento2aleks.loc\/catalog\/product_compare\/add\/","data":{"product":"10","uenc":"aHR0cDovL21hZ2VudG8yYWxla3MubG9jLw,,"}}' title="Add&#x20;to&#x20;Compare">
+                                                        <span>Add to Compare</span>
+                                                    </a>
+                                                                                            </div>
+                                                                            </div>
+                                                            </div>
+                        </div>
+                                                                    </li><li class="product-item">                        <div class="product-item-info">
+                            <a href="http://magento2aleks.loc/kartofel-sinij.html" class="product-item-photo">
+                                
+<span class="product-image-container"
+      style="width:240px;">
+    <span class="product-image-wrapper"
+          style="padding-bottom: 125%;">
+        <img class="product-image-photo"
+                        src="http://magento2aleks.loc/static/version1540796953/frontend/Magento/luma/ru_RU/Magento_Catalog/images/product/placeholder/small_image.jpg"
+            width="135"
+            height="135"
+            alt="картофель-синий"/></span>
+</span>
+                            </a>
+                            <div class="product-item-details">
+                                <strong class="product-item-name">
+                                    <a title="картофель-синий"
+                                       href="http://magento2aleks.loc/kartofel-sinij.html"
+                                       class="product-item-link">
+                                        картофель-синий                                    </a>
+                                </strong>
+                                <div class="price-box price-final_price" data-role="priceBox" data-product-id="17" data-price-box="product-id-17">
+    
+
+<span class="price-container price-final_price tax weee"
+        >
+        <span  id="old-price-17-widget-product-grid"                data-price-amount="3"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">3,00 руб.</span></span>
+        </span>
+
+</div>
+                                                                                                    
+                                                                    <div class="product-item-actions">
+                                                                                    <div class="actions-primary">
+                                                                                                                                                                                                                    <button class="action tocart primary" data-post='{"action":"http:\/\/magento2aleks.loc\/checkout\/cart\/add\/uenc\/aHR0cDovL21hZ2VudG8yYWxla3MubG9jLw%2C%2C\/product\/17\/","data":{"product":"17","uenc":"aHR0cDovL21hZ2VudG8yYWxla3MubG9jLw,,"}}' type="button" title="Add&#x20;to&#x20;Cart">
+                                                            <span>Add to Cart</span>
+                                                        </button>
+                                                                                                                                                </div>
+                                                                                                                            <div class="actions-secondary" data-role="add-to-links">
+                                                                                                    <a href="#"
+                                                       data-post='{"action":"http:\/\/magento2aleks.loc\/wishlist\/index\/add\/","data":{"product":"17","uenc":"aHR0cDovL21hZ2VudG8yYWxla3MubG9jLw,,"}}' class="action towishlist" data-action="add-to-wishlist" title="Add&#x20;to&#x20;Wish&#x20;List">
+                                                        <span>Add to Wish List</span>
+                                                    </a>
+                                                                                                                                                                                                        <a href="#" class="action tocompare" data-post='{"action":"http:\/\/magento2aleks.loc\/catalog\/product_compare\/add\/","data":{"product":"17","uenc":"aHR0cDovL21hZ2VudG8yYWxla3MubG9jLw,,"}}' title="Add&#x20;to&#x20;Compare">
+                                                        <span>Add to Compare</span>
+                                                    </a>
+                                                                                            </div>
+                                                                            </div>
+                                                            </div>
+                        </div>
+                                                                    </li><li class="product-item">                        <div class="product-item-info">
+                            <a href="http://magento2aleks.loc/kartofel-krasnyj.html" class="product-item-photo">
+                                
+<span class="product-image-container"
+      style="width:240px;">
+    <span class="product-image-wrapper"
+          style="padding-bottom: 125%;">
+        <img class="product-image-photo"
+                        src="http://magento2aleks.loc/static/version1540796953/frontend/Magento/luma/ru_RU/Magento_Catalog/images/product/placeholder/small_image.jpg"
+            width="135"
+            height="135"
+            alt="картофель-красный"/></span>
+</span>
+                            </a>
+                            <div class="product-item-details">
+                                <strong class="product-item-name">
+                                    <a title="картофель-красный"
+                                       href="http://magento2aleks.loc/kartofel-krasnyj.html"
+                                       class="product-item-link">
+                                        картофель-красный                                    </a>
+                                </strong>
+                                <div class="price-box price-final_price" data-role="priceBox" data-product-id="18" data-price-box="product-id-18">
+    
+
+<span class="price-container price-final_price tax weee"
+        >
+        <span  id="old-price-18-widget-product-grid"                data-price-amount="4"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">4,00 руб.</span></span>
+        </span>
+
+</div>
+                                                                                                    
+                                                                    <div class="product-item-actions">
+                                                                                    <div class="actions-primary">
+                                                                                                                                                                                                                    <button class="action tocart primary" data-post='{"action":"http:\/\/magento2aleks.loc\/checkout\/cart\/add\/uenc\/aHR0cDovL21hZ2VudG8yYWxla3MubG9jLw%2C%2C\/product\/18\/","data":{"product":"18","uenc":"aHR0cDovL21hZ2VudG8yYWxla3MubG9jLw,,"}}' type="button" title="Add&#x20;to&#x20;Cart">
+                                                            <span>Add to Cart</span>
+                                                        </button>
+                                                                                                                                                </div>
+                                                                                                                            <div class="actions-secondary" data-role="add-to-links">
+                                                                                                    <a href="#"
+                                                       data-post='{"action":"http:\/\/magento2aleks.loc\/wishlist\/index\/add\/","data":{"product":"18","uenc":"aHR0cDovL21hZ2VudG8yYWxla3MubG9jLw,,"}}' class="action towishlist" data-action="add-to-wishlist" title="Add&#x20;to&#x20;Wish&#x20;List">
+                                                        <span>Add to Wish List</span>
+                                                    </a>
+                                                                                                                                                                                                        <a href="#" class="action tocompare" data-post='{"action":"http:\/\/magento2aleks.loc\/catalog\/product_compare\/add\/","data":{"product":"18","uenc":"aHR0cDovL21hZ2VudG8yYWxla3MubG9jLw,,"}}' title="Add&#x20;to&#x20;Compare">
+                                                        <span>Add to Compare</span>
+                                                    </a>
+                                                                                            </div>
+                                                                            </div>
+                                                            </div>
+                        </div>
+                                                                    </li><li class="product-item">                        <div class="product-item-info">
+                            <a href="http://magento2aleks.loc/kartoshka.html" class="product-item-photo">
+                                
+<span class="product-image-container"
+      style="width:240px;">
+    <span class="product-image-wrapper"
+          style="padding-bottom: 125%;">
+        <img class="product-image-photo"
+                        src="http://magento2aleks.loc/static/version1540796953/frontend/Magento/luma/ru_RU/Magento_Catalog/images/product/placeholder/small_image.jpg"
+            width="135"
+            height="135"
+            alt="картошка"/></span>
+</span>
+                            </a>
+                            <div class="product-item-details">
+                                <strong class="product-item-name">
+                                    <a title="картошка"
+                                       href="http://magento2aleks.loc/kartoshka.html"
+                                       class="product-item-link">
+                                        картошка                                    </a>
+                                </strong>
+                                <div class="price-box price-final_price" data-role="priceBox" data-product-id="20" data-price-box="product-id-20">
+    
+
+<span class="price-container price-final_price tax weee"
+        >
+        <span  id="old-price-20-widget-product-grid"                data-price-amount="2"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">2,00 руб.</span></span>
+        </span>
+
+</div>
+                                                                                                    
+                                                                    <div class="product-item-actions">
+                                                                                    <div class="actions-primary">
+                                                                                                                                                                                                                    <button class="action tocart primary" data-post='{"action":"http:\/\/magento2aleks.loc\/checkout\/cart\/add\/uenc\/aHR0cDovL21hZ2VudG8yYWxla3MubG9jLw%2C%2C\/product\/20\/","data":{"product":"20","uenc":"aHR0cDovL21hZ2VudG8yYWxla3MubG9jLw,,"}}' type="button" title="Add&#x20;to&#x20;Cart">
+                                                            <span>Add to Cart</span>
+                                                        </button>
+                                                                                                                                                </div>
+                                                                                                                            <div class="actions-secondary" data-role="add-to-links">
+                                                                                                    <a href="#"
+                                                       data-post='{"action":"http:\/\/magento2aleks.loc\/wishlist\/index\/add\/","data":{"product":"20","uenc":"aHR0cDovL21hZ2VudG8yYWxla3MubG9jLw,,"}}' class="action towishlist" data-action="add-to-wishlist" title="Add&#x20;to&#x20;Wish&#x20;List">
+                                                        <span>Add to Wish List</span>
+                                                    </a>
+                                                                                                                                                                                                        <a href="#" class="action tocompare" data-post='{"action":"http:\/\/magento2aleks.loc\/catalog\/product_compare\/add\/","data":{"product":"20","uenc":"aHR0cDovL21hZ2VudG8yYWxla3MubG9jLw,,"}}' title="Add&#x20;to&#x20;Compare">
+                                                        <span>Add to Compare</span>
+                                                    </a>
+                                                                                            </div>
+                                                                            </div>
+                                                            </div>
+                        </div>
+                                                                    </li><li class="product-item">                        <div class="product-item-info">
+                            <a href="http://magento2aleks.loc/chaj-paketnyj-20.html" class="product-item-photo">
+                                
+<span class="product-image-container"
+      style="width:240px;">
+    <span class="product-image-wrapper"
+          style="padding-bottom: 125%;">
+        <img class="product-image-photo"
+                        src="http://magento2aleks.loc/static/version1540796953/frontend/Magento/luma/ru_RU/Magento_Catalog/images/product/placeholder/small_image.jpg"
+            width="135"
+            height="135"
+            alt="чай пакетный-20"/></span>
+</span>
+                            </a>
+                            <div class="product-item-details">
+                                <strong class="product-item-name">
+                                    <a title="чай пакетный-20"
+                                       href="http://magento2aleks.loc/chaj-paketnyj-20.html"
+                                       class="product-item-link">
+                                        чай пакетный-20                                    </a>
+                                </strong>
+                                <div class="price-box price-final_price" data-role="priceBox" data-product-id="22" data-price-box="product-id-22">
+    
+
+<span class="price-container price-final_price tax weee"
+        >
+        <span  id="old-price-22-widget-product-grid"                data-price-amount="8"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">8,00 руб.</span></span>
+        </span>
+
+</div>
+                                                                                                    
+                                                                    <div class="product-item-actions">
+                                                                                    <div class="actions-primary">
+                                                                                                                                                                                                                    <button class="action tocart primary" data-post='{"action":"http:\/\/magento2aleks.loc\/checkout\/cart\/add\/uenc\/aHR0cDovL21hZ2VudG8yYWxla3MubG9jLw%2C%2C\/product\/22\/","data":{"product":"22","uenc":"aHR0cDovL21hZ2VudG8yYWxla3MubG9jLw,,"}}' type="button" title="Add&#x20;to&#x20;Cart">
+                                                            <span>Add to Cart</span>
+                                                        </button>
+                                                                                                                                                </div>
+                                                                                                                            <div class="actions-secondary" data-role="add-to-links">
+                                                                                                    <a href="#"
+                                                       data-post='{"action":"http:\/\/magento2aleks.loc\/wishlist\/index\/add\/","data":{"product":"22","uenc":"aHR0cDovL21hZ2VudG8yYWxla3MubG9jLw,,"}}' class="action towishlist" data-action="add-to-wishlist" title="Add&#x20;to&#x20;Wish&#x20;List">
+                                                        <span>Add to Wish List</span>
+                                                    </a>
+                                                                                                                                                                                                        <a href="#" class="action tocompare" data-post='{"action":"http:\/\/magento2aleks.loc\/catalog\/product_compare\/add\/","data":{"product":"22","uenc":"aHR0cDovL21hZ2VudG8yYWxla3MubG9jLw,,"}}' title="Add&#x20;to&#x20;Compare">
+                                                        <span>Add to Compare</span>
+                                                    </a>
+                                                                                            </div>
+                                                                            </div>
+                                                            </div>
+                        </div>
+                                                                    </li><li class="product-item">                        <div class="product-item-info">
+                            <a href="http://magento2aleks.loc/chaj-paketnyj-10.html" class="product-item-photo">
+                                
+<span class="product-image-container"
+      style="width:240px;">
+    <span class="product-image-wrapper"
+          style="padding-bottom: 125%;">
+        <img class="product-image-photo"
+                        src="http://magento2aleks.loc/static/version1540796953/frontend/Magento/luma/ru_RU/Magento_Catalog/images/product/placeholder/small_image.jpg"
+            width="135"
+            height="135"
+            alt="чай пакетный-10"/></span>
+</span>
+                            </a>
+                            <div class="product-item-details">
+                                <strong class="product-item-name">
+                                    <a title="чай пакетный-10"
+                                       href="http://magento2aleks.loc/chaj-paketnyj-10.html"
+                                       class="product-item-link">
+                                        чай пакетный-10                                    </a>
+                                </strong>
+                                <div class="price-box price-final_price" data-role="priceBox" data-product-id="23" data-price-box="product-id-23">
+    
+
+<span class="price-container price-final_price tax weee"
+        >
+        <span  id="old-price-23-widget-product-grid"                data-price-amount="4"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">4,00 руб.</span></span>
+        </span>
+
+</div>
+                                                                                                    
+                                                                    <div class="product-item-actions">
+                                                                                    <div class="actions-primary">
+                                                                                                                                                                                                                    <button class="action tocart primary" data-post='{"action":"http:\/\/magento2aleks.loc\/checkout\/cart\/add\/uenc\/aHR0cDovL21hZ2VudG8yYWxla3MubG9jLw%2C%2C\/product\/23\/","data":{"product":"23","uenc":"aHR0cDovL21hZ2VudG8yYWxla3MubG9jLw,,"}}' type="button" title="Add&#x20;to&#x20;Cart">
+                                                            <span>Add to Cart</span>
+                                                        </button>
+                                                                                                                                                </div>
+                                                                                                                            <div class="actions-secondary" data-role="add-to-links">
+                                                                                                    <a href="#"
+                                                       data-post='{"action":"http:\/\/magento2aleks.loc\/wishlist\/index\/add\/","data":{"product":"23","uenc":"aHR0cDovL21hZ2VudG8yYWxla3MubG9jLw,,"}}' class="action towishlist" data-action="add-to-wishlist" title="Add&#x20;to&#x20;Wish&#x20;List">
+                                                        <span>Add to Wish List</span>
+                                                    </a>
+                                                                                                                                                                                                        <a href="#" class="action tocompare" data-post='{"action":"http:\/\/magento2aleks.loc\/catalog\/product_compare\/add\/","data":{"product":"23","uenc":"aHR0cDovL21hZ2VudG8yYWxla3MubG9jLw,,"}}' title="Add&#x20;to&#x20;Compare">
+                                                        <span>Add to Compare</span>
+                                                    </a>
+                                                                                            </div>
+                                                                            </div>
+                                                            </div>
+                        </div>
+                                                                    </li><li class="product-item">                        <div class="product-item-info">
+                            <a href="http://magento2aleks.loc/chaj-paketnyj.html" class="product-item-photo">
+                                
+<span class="product-image-container"
+      style="width:240px;">
+    <span class="product-image-wrapper"
+          style="padding-bottom: 125%;">
+        <img class="product-image-photo"
+                        src="http://magento2aleks.loc/static/version1540796953/frontend/Magento/luma/ru_RU/Magento_Catalog/images/product/placeholder/small_image.jpg"
+            width="135"
+            height="135"
+            alt="чай пакетный"/></span>
+</span>
+                            </a>
+                            <div class="product-item-details">
+                                <strong class="product-item-name">
+                                    <a title="чай пакетный"
+                                       href="http://magento2aleks.loc/chaj-paketnyj.html"
+                                       class="product-item-link">
+                                        чай пакетный                                    </a>
+                                </strong>
+                                <div class="price-box price-final_price" data-role="priceBox" data-product-id="24" data-price-box="product-id-24">
+
+<span class="normal-price">
+    
+
+<span class="price-container price-final_price tax weee"
+        >
+            <span class="price-label">As low as</span>
+        <span  id="old-price-24-widget-product-grid"                data-price-amount="4"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">4,00 руб.</span></span>
+        </span>
+</span>
+
+
+</div>
+                                                                                                    
+                                                                    <div class="product-item-actions">
+                                                                                    <div class="actions-primary">
+                                                                                                                                                            <button class="action tocart primary" data-mage-init='{"redirectUrl":{"url":"http://magento2aleks.loc/chaj-paketnyj.html?options=cart"}}' type="button" title="Add&#x20;to&#x20;Cart">
+                                                            <span>Add to Cart</span>
+                                                        </button>
+                                                                                                                                                </div>
+                                                                                                                            <div class="actions-secondary" data-role="add-to-links">
+                                                                                                    <a href="#"
+                                                       data-post='{"action":"http:\/\/magento2aleks.loc\/wishlist\/index\/add\/","data":{"product":"24","uenc":"aHR0cDovL21hZ2VudG8yYWxla3MubG9jLw,,"}}' class="action towishlist" data-action="add-to-wishlist" title="Add&#x20;to&#x20;Wish&#x20;List">
+                                                        <span>Add to Wish List</span>
+                                                    </a>
+                                                                                                                                                                                                        <a href="#" class="action tocompare" data-post='{"action":"http:\/\/magento2aleks.loc\/catalog\/product_compare\/add\/","data":{"product":"24","uenc":"aHR0cDovL21hZ2VudG8yYWxla3MubG9jLw,,"}}' title="Add&#x20;to&#x20;Compare">
+                                                        <span>Add to Compare</span>
+                                                    </a>
+                                                                                            </div>
+                                                                            </div>
+                                                            </div>
+                        </div>
+                        </li>                                    </ol>
+            </div>
+                    </div>
+    </div>

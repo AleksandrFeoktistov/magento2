@@ -1,0 +1,1 @@
+/var/www/html/magento/vendor/magento/module-braintree/view/base/web/js/validator.js
