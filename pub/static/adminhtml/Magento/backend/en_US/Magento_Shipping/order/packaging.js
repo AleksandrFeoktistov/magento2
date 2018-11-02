@@ -1,1 +1,0 @@
-/var/www/html/magento/vendor/magento/module-shipping/view/adminhtml/web/order/packaging.js

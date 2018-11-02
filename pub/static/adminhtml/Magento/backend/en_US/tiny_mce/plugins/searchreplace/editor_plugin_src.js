@@ -1,1 +1,0 @@
-/var/www/html/magento/lib/web/tiny_mce/plugins/searchreplace/editor_plugin_src.js
