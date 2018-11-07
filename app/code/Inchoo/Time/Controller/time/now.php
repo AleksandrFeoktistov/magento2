@@ -3,12 +3,13 @@
 namespace Inchoo\Time\Controller\Time;
 
 use Magento\Framework\App\Action\Context;
+use Magento\Framework\View\Result\PageFactory;
 
 class Now extends \Magento\Framework\App\Action\Action
 {
     protected $_resultPageFactory;
 
-    public function __construct(Context $context, \Magento\Framework\View\Result\PageFactory $resultPageFactory)
+    public function __construct(Context $context, PageFactory $resultPageFactory)
     {
         $this->_resultPageFactory = $resultPageFactory;
         parent::__construct($context);

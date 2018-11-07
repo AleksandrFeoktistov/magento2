@@ -27,7 +27,7 @@ return [
         ]
     ],
     'x-frame-options' => 'SAMEORIGIN',
-    'MAGE_MODE' => 'developer',
+    'MAGE_MODE' => 'default',
     'session' => [
         'save' => 'files'
     ],
@@ -44,7 +44,8 @@ return [
         'config_integration_api' => 1,
         'full_page' => 1,
         'config_webservice' => 1,
-        'translate' => 1
+        'translate' => 1,
+        'compiled_config' => 1
     ],
     'install' => [
         'date' => 'Mon, 29 Oct 2018 07:08:49 +0000'
@@ -57,6 +58,15 @@ return [
                     'server' => '127.0.0.1',
                     'database' => '0',
                     'port' => '6379'
+                ]
+            ]
+        ]
+    ],
+    'system' => [
+        'default' => [
+            'dev' => [
+                'debug' => [
+                    'debug_logging' => '0'
                 ]
             ]
         ]
