@@ -34,7 +34,7 @@ return [
     'cache_types' => [
         'config' => 1,
         'layout' => 1,
-        'block_html' => 1,
+        'block_html' => 0,
         'collections' => 1,
         'reflection' => 1,
         'db_ddl' => 1,
@@ -44,7 +44,8 @@ return [
         'config_integration_api' => 1,
         'full_page' => 1,
         'config_webservice' => 1,
-        'translate' => 1
+        'translate' => 1,
+        'compiled_config' => 1
     ],
     'install' => [
         'date' => 'Mon, 29 Oct 2018 07:08:49 +0000'
@@ -57,6 +58,15 @@ return [
                     'server' => '127.0.0.1',
                     'database' => '0',
                     'port' => '6379'
+                ]
+            ]
+        ]
+    ],
+    'system' => [
+        'default' => [
+            'dev' => [
+                'debug' => [
+                    'debug_logging' => '0'
                 ]
             ]
         ]
