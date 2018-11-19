@@ -9,6 +9,8 @@ return [
         'Magento_Cms' => 1,
         'Magento_Customer' => 1,
         'Magento_AdminNotification' => 1,
+        'Magenticians_CDEK' => 1,
+        'Magenticians_Moduleshipping' => 1,
         'Magento_Indexer' => 1,
         'Magento_AdvancedPricingImportExport' => 1,
         'Magento_Config' => 1,

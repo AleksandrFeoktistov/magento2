@@ -8,26 +8,18 @@
 
 ?>
 <?php /* @var $block \Magento\Catalog\Block\Product\View\AbstractView */?>
+<?php echo get_class($block); ?>
+	<?php $ref = new ReflectionMethod($block, 'displayProductStockStatus'); echo $ref->getFileName(); ?>
 <?php $_product = $block->getProduct() ?>
-<?php $Count = $_product->getExtensionAttributes()->getStockItem()->getQty(); ?>
+
 <?php if ($block->displayProductStockStatus()): ?>
-      <?php if ($_product->isAvailable()): ?>
-          <?php if ($Count > 4): ?>
-              <div class="stock available" title="<?= /* @escapeNotVerified */ __('Availability') ?>">
-                  <span><?= /* @escapeNotVerified */ __('In stock') ?></span>
-              </div>
-          <?php elseif ($Count > 1): ?>
-              <div class="stock available" title="<?= /* @escapeNotVerified */ __('Availability') ?>">
-                  <span><?= /* @escapeNotVerified */ __('the goods are almost out of stock') ?></span>
-              </div>
-          <?php elseif ($Count = 1): ?>
-              <div class="stock available" title="<?= /* @escapeNotVerified */ __('Availability') ?>">
-                  <span><?= /* @escapeNotVerified */ __('one goods') ?></span>
-              </div>
-          <?php else: ?>
-              <div class="stock unavailable" title="<?= /* @escapeNotVerified */ __('Availability') ?>">
-                  <span><?= /* @escapeNotVerified */ __('Out of stock') ?></span>
-              </div>
-          <?php endif; ?>
-      <?php endif; ?>
-  <?php endif; ?>
+    <?php if ($_product->isAvailable()): ?>
+        <div class="stock available" title="<?= /* @escapeNotVerified */ __('Availability') ?>">
+            <span><?= /* @escapeNotVerified */ __('In stock 1') ?></span>
+        </div>
+    <?php else: ?>
+        <div class="stock unavailable" title="<?= /* @escapeNotVerified */ __('Availability') ?>">
+            <span><?= /* @escapeNotVerified */ __('Out of stock 2') ?></span>
+        </div>
+    <?php endif; ?>
+<?php endif; ?>
